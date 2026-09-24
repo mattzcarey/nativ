@@ -1,0 +1,21 @@
+PythonDistribution/Overlay/nativ_server.py
+  s_1b1f3dce47e01c::t_dbec4e31974fdf 19-27
+PythonDistribution/Requirements/mlx-vlm-server-macos-arm64.txt
+  s_1b1f3dce47e01c::t_776a8dc0fbdfb4 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7aab4e74e4d2d28328e89c9def09b622a7c83ec7",
+  "prompts": {},
+  "sessions": {
+    "s_1b1f3dce47e01c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0b3b8-09e5-75fe-ad90-bf9d48da5b83",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Matt Carey <mcarey@cloudflare.com>"
+    }
+  }
+}
